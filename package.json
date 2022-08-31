@@ -18,7 +18,7 @@
     "@types/reactstrap": "8.7.2",
     "bootstrap": "4.6.0",
     "moment": "2.29.1",
-    "moment-timezone": "0.5.32",
+    "moment-timezone": "0.5.35",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-router-dom": "5.2.0",
